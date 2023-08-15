@@ -1,0 +1,50 @@
+/* *
+{
+ box-sizing: border-box;
+ margin: 0;
+ padding: 0;
+}
+
+html,body
+{
+    width:100%;
+}  */
+
+/* button starts*/
+.btn
+{
+    margin: 50px;
+    border: none;
+    border-radius: 11px;
+    padding: 10px 22px;
+    color: rgb(242, 233, 233);
+    font-size: 14px;
+    font-weight: 100;
+    letter-spacing: 1px;
+} 
+
+.btn-red
+{
+    background-color: rgb(242, 43, 43);
+}
+
+.btn-green
+{
+    background-color: rgb(26, 181, 12);
+}
+.btn-orange
+{
+    background-color: rgb(213, 96, 7);
+}
+
+.btn-yellow
+{
+    background-color: rgb(237, 245, 21);
+    color: black;
+}
+
+.btn-blue
+{
+    background-color: rgb(20, 83, 241);
+}
+/* button ends */

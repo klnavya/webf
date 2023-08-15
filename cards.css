@@ -1,0 +1,71 @@
+*
+{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+html,body
+{
+    width: 100%;
+}
+/* cards start */
+
+.cards
+{
+    background-color: rgba(56, 55, 55, 0.94);
+   
+    text-align: center ;
+    width: 285px;
+    height: 539px;
+    margin: 108px;
+    margin-left: 347px;
+    margin-right: -330px;
+    padding:11px 21px ;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+}
+
+.cards li
+{
+    list-style: none;
+    line-height: 50px;
+}
+
+/* .cards p
+{
+  text-decoration: line-through;
+  margin-bottom: 39px;
+} */
+
+.cards h1 
+{
+ margin: 21px;
+ padding: 2px;
+ font-size: 30px;
+ font-weight: 440;
+}
+
+.cards a
+{
+text-decoration: none;
+border: 2px solid rgba(255, 255, 255, 0.904);
+border-radius: 3px;
+padding: 14px 28px;
+margin: 41px;
+color: white;
+display: inline-block;
+
+}
+
+.c1
+{
+    background-color: rgba(252, 56, 56, 0.786);
+}
+
+.c2
+{
+    background-color: rgba(56, 55, 55, 0.94);
+}
+/* card ends */
